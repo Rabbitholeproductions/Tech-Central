@@ -1,0 +1,58 @@
+body {
+  background-color: #DEB887;
+}
+
+#nav-bar {
+  margin-top: 10px;
+     width: 100%;
+     display: flex;
+     flex-direction: column;
+     align-items: left;
+     text-align: left;
+     padding: 0 50px;
+   }
+
+p {
+  font-size: 50px;
+  font-family: sans-serif;
+  font-weight: bold;
+  text-align: center;
+  color: black;
+
+
+
+}
+h2 {
+  text-align: center;
+}
+#more-info {
+  font-size: 25px
+}
+#email {
+  background-color: #FFF;
+  height: 1.5em;
+}
+#creality-ender-3 {
+
+
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 25%;
+}
+#ender {
+  font-size: 30px;
+  font-style: oblique;
+  }
+
+#logo {
+  font-size: 100px;
+  color: #d3d3d3;
+}
+@media only screen and (max-width:500px) {
+}
+img {
+  mix-blend-mode: multiply;
+}
